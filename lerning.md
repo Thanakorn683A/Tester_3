@@ -1,4 +1,4 @@
-#เรียนรู้การใช้ Shortcut Key
+๊#เรียนรู้การใช้ Shortcut Key
 Ctrl + J การเปิด-ปิด Terminal
 Ctrl + B การเปิด-ปิด Explorer
 Ctrl + P การค้นหาไฟล์แบบเร็ว
